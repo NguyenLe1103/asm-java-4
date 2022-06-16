@@ -20,12 +20,12 @@
  
     <context-param>
         <param-name>user</param-name>
-        <param-value>hoangquyen18012001@gmail.com</param-value>
+        <param-value>Your mail</param-value>
     </context-param>
  
     <context-param>
         <param-name>pass</param-name>
-        <param-value>nhatminh1</param-value>
+        <param-value>Pass</param-value>
     </context-param>
     
 	<welcome-file-list>
